@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/ken702/src/github.com/frinfo702/atcoder/target/debug/build/typenum-6d55a03102830c3c/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/ken702/src/github.com/frinfo702/atcoder/target/debug/build/typenum-6d55a03102830c3c/out/op.rs
