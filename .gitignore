@@ -1,0 +1,19 @@
+# Rust / Cargo build artifacts (workspace root and per-problem crates)
+target/
+**/target/
+**/*.rs.bk
+
+# IDE / editor metadata that should remain local
+.vscode/
+.idea/
+*.code-workspace
+
+# OS-specific cruft
+.DS_Store
+Thumbs.db
+
+# Editor swap / backup files
+*~
+.#*
+*.swp
+*.swo
