@@ -11,11 +11,9 @@ fn main() {
     if maze[h][w] == '#' {
         println!("{}", -1);
     }
-    
-    
 }
 
-fn decide_direction(x: usize, y: usize, maze: Vec<Vec<char>>) -> (usize, usize) {
-    up = maze.get((x-1,y));
-    right = 
-}
+// fn decide_direction(x: usize, y: usize, maze: Vec<Vec<char>>) -> (usize, usize) {
+//     up = maze.get((x-1,y));
+//     right =
+// }
