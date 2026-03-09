@@ -13,7 +13,7 @@ public:
 private:
   bool dfs(int idx, vector<int> &nums, int target) {
     if (idx == nums.size()) {
-      return nums[idx] == target;
+      return target == 0;
     }
 
     /*
