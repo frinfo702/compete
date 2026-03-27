@@ -1,4 +1,3 @@
-using namespace std;
 
 int func(int N) {
   if (N == 0) {
